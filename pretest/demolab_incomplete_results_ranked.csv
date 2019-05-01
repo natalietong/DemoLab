@@ -1,0 +1,91 @@
+,%undecided,spearmanr,sum_uw,item
+p1agree,0.19540229885057472,0.18268744833238051,0.9872851494818058,"A proposal to ban the exchange of cryptocurrencies such as Bitcoin, Ethereum, or Litecoin in the United States."
+p2agree,0.09411764705882353,0.0005175177845269197,0.9063998707257034,"A proposal for mandatory minimum prison sentences for those convicted of  identity theft (""phishing"") ."
+p3agree,0.10843373493975904,-0.02020775919610542,0.9117740242563463,A proposal to use artificial intelligence software to detect online blackmailing on email platforms.
+p4agree,0.11904761904761904,-0.3055312418328024,1.1864836227851834,"A proposal to ban subliminal advertising from television, movies, and web videos."
+p5agree,0.19753086419753085,0.02557572648527664,0.8280448622877458,A proposal to ban the storage of an individual's genetic information collected through bio-ident
+p6agree,0.3132530120481928,-0.10049410249577426,0.7872410904475815,"A proposal to require self-driving car manufacturers to program their products to make life-or-death decisions that minimize total harm or death, even if that means sacrificing the driver‚Äôs own safety."
+p7agree,0.1728395061728395,0.06119661612719106,0.8883571099543516,"A proposal to require employers to provide half pay with full benefits for two years for current and future workers displaced by robots, androids, or artificial intelligence."
+p8agree,0.24390243902439024,-0.1030132815735103,0.8591108425491201,A proposal to permit genetic editing of fetuses to prevent debilitating or fatal diseases.
+p9agree,0.21951219512195122,0.07786764663440883,0.8583554515124576,"A proposal for an independent non-partisan commission to assess the reliability of print, online, and broadcast news sources."
+p10agree,0.1794871794871795,-0.356057495930366,1.1765703164431864,A proposal to remove the penny from circulation. 
+p11agree,0.24390243902439024,0.24937404004028263,1.0054716010158924,A proposal to exempt U.S. citizens from paying U.S. income tax for any foreign income they earn while living abroad.
+p12agree,0.30120481927710846,-0.035767170896762096,0.7345623516196537,A proposal to tax companies in the countries where they are headquartered rather than in the countries where their revenues are generated. 
+p13agree,0.18292682926829268,-0.2751581232862995,1.0922312940180068,A proposal to restrict the U.S. federal government from the use of tax revenue to save corporations from failing unless those companies have first declared bankruptcy.
+p14agree,0.11392405063291139,0.24850331137665627,1.1345792607437448,A proposal to permit universities to offer salaries to college athletes.
+p15agree,0.07228915662650602,-0.3810986711435231,1.308809514517017,A proposal to impose $100 fines for drivers who drive below the speed limit in the passing lane on divided highways.
+p16agree,0.20238095238095238,-0.16111388500631751,0.9587329326253652,A proposal to eliminate Federal subsidies of agricultural products.
+p17agree,0.12048192771084337,0.23316074008657914,1.1126788123757358,A proposal to replace the current lottery based juror system with full-time licensed professional jurors.
+p18agree,0.13924050632911392,0.1895814362597583,1.0503409299306443,A proposal to develop artificial intelligence programs to serve as public defenders for those who cannot afford a human attorney.
+p19agree,0.1724137931034483,-0.29525484082577264,1.1228410477223243,A proposal to permit the development of genetically-engineered animals with organs that are suitable for animal-to-human organ donation.
+p20agree,0.07317073170731707,-0.23022476736534767,1.1570540356580306,A proposal to authorize the Federal Aviation Administration (FAA) to develop safety requirements for commercial space travel. 
+p21agree,0.125,0.008579167748701957,0.8835791677487019,"A proposal to require social media websites in the U.S. to obtain informed consent from anyone who serves as a participant in an experiment on their platform, whether for basic scientific research or product improvement. "
+p22agree,0.04819277108433735,0.1602723245989848,1.1120795535146475,A proposal for government-funded job retraining programs to provide computer programming skills for workers displaced by automation.
+p23agree,0.0759493670886076,0.0971978286632547,1.021248461574647,A proposal to require lab-grown meat to be explicitly labeled.
+p24agree,0.058823529411764705,0.0029729013648386034,0.9441493719530739,A proposal to prohibit telecommunications companies from selling user location data to third parties. 
+p25agree,0.03614457831325301,0.146719426225197,1.110574847911944,"A proposal to restrict smart home devices (e.g. Amazon Echo, Google Home) from storing data obtained from conversations while passively listening for a command."
+p26agree,0.1927710843373494,-0.1481099620696719,0.9553388777323225,A proposal to permit gene editing of invasive or disease-carrying species (e.g. mosquitoes) to limit their reproduction.
+p27agree,0.07317073170731707,-0.09726244465865144,1.0240917129513345,A proposal to raise the minimum retirement age to reflect the increase in average life expectancy in the U.S.
+p28agree,0.09876543209876543,-0.16727814605632718,1.0685127139575616,"A proposal to require every able-bodied U.S. citizen to spend one year in paid ""National Service"" following high school graduation or be exempted if employed in comparable occupations (e.g. teaching preschool in disadvantaged neighborhoods)."
+p29agree,0.13580246913580246,-0.02442563685546187,0.8886231677196594,"A proposal to prohibit genetic research intended to bring back extinct animals (e.g. mammoths, dinosaurs, dodo birds, black rhinos)."
+p31agree,0.04938271604938271,0.0661274951681193,1.0167447791187365,A proposal to make the Super Bowl a national holiday.
+p32agree,0.07954545454545454,0.44659269786732336,1.3670472433218688,A proposal to require laptop manufacturers to install privacy-protecting manual lens covers over the cameras.
+p33agree,0.20481927710843373,0.053494476639090745,0.8486751995306571,A proposal to provide federal energy subsidies for hydrogen-powered technology.
+p34agree,0.13095238095238096,0.44435911618126145,1.3134067352288805,A proposal to require air deodorizing systems in elevators with a capacity greater than five people. 
+p35agree,0.07317073170731707,-0.34947495077678814,1.2763042190694711,A proposal to legalize physician assisted suicide for patients with painful terminal diseases.
+p36agree,0.13253012048192772,-0.06767878436341011,0.9351486638814824,A proposal to commit NASA to send a human to and back from Mars by 2040.
+p37agree,0.15476190476190477,0.017443687528130726,0.862681782766226,A proposal to fund research for using virtual reality in public education.
+p38agree,0.2345679012345679,-0.09931110511002543,0.8647432038754576,‚ÄãA proposal to permit athletes to use medical procedures to extend the length of their careers.
+p39agree,0.18072289156626506,0.008155972862086788,0.8274330812958217,A proposal to allow professional athletic organizations to use genetic information about athletes during contract negotiations.
+p40agree,0.08433734939759036,-0.15885028030370008,1.0745129309061099,A proposal to prohibit news organizations from displaying images of the shooter in mass shootings.
+p41agree,0.08433734939759036,-0.07082539765335702,0.9864880482557667,A proposal to prohibit genetic testing companies (e.g. 23andMe) from claiming ownership over their clients‚Äô genetic data.
+p42agree,0.175,-0.19438571448837244,1.0193857144883725,A proposal to increase federal funding for research into use of hyperloop and maglev trains for public transportation.
+p43agree,0.38271604938271603,-0.013801670905865721,0.6310856215231497,A proposal to federally subsidize bird-tracking programs.
+p44agree,0.175,-0.21733750539243504,1.042337505392435,"A proposal to implement default, but changeable, organ donor status for all citizens."
+p45agree,0.14634146341463414,0.04611126673155883,0.8997698033169247,A proposal to reconsider state speed limits every 50 years.
+c1agree,0.16883116883116883,0.1380363171263005,0.9692051482951317,Video games have a positive influence on children‚Äôs lives
+c2agree,0.3116883116883117,0.31989851178335504,1.0082102000950433,On-demand movies and television shows have a positive influence on children‚Äôs lives.
+c3agree,0.14102564102564102,0.16460984688315572,1.0235842058575146,The greatest books are universal in their appeal.
+c4agree,0.14102564102564102,0.0006220718143272559,0.8595964307886863,Watching one‚Äôs children grow up is life‚Äôs greatest joy.
+c5agree,0.06493506493506493,0.4727592090177121,1.407824144082647,High schools and colleges make students spend too much time reading ‚Äúclassics‚Äù that have little relevance in today‚Äôs world.
+c6agree,0.07317073170731707,-0.23662599912596127,1.1634552674186442,Artistic excellence can be found in popular and folk culture just as much as in the fine arts
+c7agree,0.0945945945945946,0.37373763698028445,1.2791430423856898,"In regard to morality, it takes only one rotten apple to spoil the barrel."
+c8agree,0.11688311688311688,0.1684178256967993,1.0515347088136824,The best part of traveling to foreign countries is eating local foods.
+c9agree,0.20987654320987653,0.23724895059792075,1.0273724073880441,Classical music is pretentious.
+c10agree,0.22666666666666666,0.04483664972293281,0.8181699830562661,Modern art is pretentious.
+c11agree,0.06172839506172839,0.0011864761041237115,0.9394580810423953,Science and technology are largely responsible for human progress.
+c12agree,0.0,-0.0819749490910204,1.0819749490910204,"It is important for one's social life to stay up to date with the latest sports games, popular television shows, and movies."
+c13agree,0.22784810126582278,0.2838858520552253,1.0560377507894025,Science fiction is more interesting than science fact.
+c14agree,0.06329113924050633,0.051135866345877655,0.9878447271053713,Social media sites have a positive influence on people's daily lives.
+c15agree,0.1038961038961039,0.17796842165381335,1.0740723177577094,There is no such thing as objective truth. What is true depends on the personal values of each person.
+c16agree,0.175,0.2063990542734992,1.0313990542734992,It is unethical but not morally wrong to treat some people differently than others.
+c17agree,0.3,0.0931584500399135,0.7931584500399135,Social justice is more important than economic equality.
+c18agree,0.2375,0.05018104445874073,0.8126810444587407,It is unwise but not unethical to betray one's group.
+c19agree,0.189873417721519,-0.18669572033953336,0.9968223026180143,It is likely that a tsunami will hit the west coast in the next 20 years.
+c20agree,0.23376623376623376,0.12750035574925675,0.893734121983023,"It is likely that an asteroid will wipe out human civilization in the next 1,000 years."
+c21agree,0.012987012987012988,0.36685238621296157,1.3538653732259487,It is likely that someone you know will win a state or national lottery.
+c22agree,0.13253012048192772,-0.16040962017307825,1.0278794996911507,It is likely that a devastating earthquake will occur in the United States in the next 15 years.
+c23agree,0.16666666666666666,-0.12201553666317169,0.955348869996505,It is likely that someone you know will find a four-leaf clover this year.
+c24agree,0.0875,-0.059106632034331745,0.9716066320343317,It is likely that many automobiles will continue to run on gasoline in the U.S. well after gasoline engines have disappeared in Western Europe.
+c25agree,0.13580246913580246,0.11511497671833558,0.9793125075825332,"During preschool years, it is more important for children to learn obedience than creativity, but after age six, it is the other way around."
+c26agree,0.24358974358974358,0.13682530058904466,0.893235556999301,It is a myth that strict parents give children the confidence to succeed in life.
+c27agree,0.1282051282051282,0.19678142900249473,1.0685763007973665,The character of the students is more important than the quality of the teachers in choosing the best schools for one's children.
+c28agree,0.17073170731707318,0.10933963926116405,0.9386079319440909,Scientific research that causes pain and injury to animals should  be prohibited even if it is needed to cure human diseases.
+c29agree,0.04938271604938271,0.09656224180085853,1.0471795257514758,"Parents should encourage their children to learn more practically relevant skills such as personal finance, home repair, and cooking."
+c30agree,0.2625,-0.03837316476034853,0.7758731647603486,"When there is no other option, it is morally okay to sacrifice the life of an aging mentally impaired adult to save the lives of a dozen healthy children."
+c31agree,0.1282051282051282,0.35764033419725794,1.2294352059921296,One should not feed one's family genetically modified foods.
+c32agree,0.0759493670886076,0.23861894404234843,1.162669576953741,"The world‚Äôs future looks grim, so we have to focus on looking after ourselves."
+c33agree,0.08974358974358974,0.00382783056464941,0.9140842408210597,"Public schools need to place greater emphasis on children's physical fitness and health, even it takes away time from academics."
+c34agree,0.17721518987341772,0.23613599387623294,1.058920804002815,Nothing is inevitable.
+c35agree,0.2564102564102564,0.03602549954503812,0.7796152431347817,Life will be better in 100 years compared to today.
+c36agree,0.037037037037037035,0.22091415086612626,1.1838771138290893,"In getting ahead, it is not what you know, it's who you know."
+c37agree,0.12,-0.2972847883006958,1.1772847883006958,It is superficial to have a high degree of interest in fashion.
+c38agree,0.038461538461538464,0.17118920940094498,1.1327276709394065,People don‚Äôt read enough anymore.
+c39agree,0.30864197530864196,-0.008506137427157593,0.6998641621185155,Artistic independent films contribute more to American culture than summer blockbusters.
+c40agree,0.10126582278481013,0.2732012529574097,1.1719354301725997,Chess should be included in the Summer Olympics.
+c41agree,0.075,-0.05267827683062545,0.9776782768306255,It is unfair to pets for owners to leave them home alone all day while going to work.
+c42agree,0.06493506493506493,-0.05964425714402883,0.9947091922089639,It‚Äôs important to be able to hold a five-minute conversation with anyone on the street.
+c43agree,0.0875,-0.1847309109085572,1.0972309109085572,Companies should be able to hire for the same position at different salaries based on a good first impression.
+c44agree,0.20253164556962025,0.005358665815071682,0.8028270202454515,Society only functions as well as its lowest common denominator.
+c45agree,0.1375,0.13987164498658197,1.002371644986582,‚ÄúHonest work‚Äù is more desirable than ‚Äúlucrative work.‚Äù
+c46agree,0.2987012987012987,-0.04035716368005065,0.7416558649787519,Implanting technology is acceptable in the bones and organs but not in the brain.

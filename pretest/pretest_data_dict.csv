@@ -1,0 +1,834 @@
+﻿variable,key
+StartDate,Start Date
+EndDate,End Date
+Status,Response Type
+IPAddress,IP Address
+Progress,Progress
+Duration (in seconds),Duration (in seconds)
+Finished,Finished
+RecordedDate,Recorded Date
+ResponseId,Response ID
+RecipientLastName,Recipient Last Name
+RecipientFirstName,Recipient First Name
+RecipientEmail,Recipient Email
+ExternalReference,External Data Reference
+LocationLatitude,Location Latitude
+LocationLongitude,Location Longitude
+DistributionChannel,Distribution Channel
+UserLanguage,User Language
+age,Are you 18 years old or older?
+consent,Do you consent to participate in this study?
+metadata_Browser,Browser Meta Info - Browser
+metadata_Version,Browser Meta Info - Version
+metadata_Operating System,Browser Meta Info - Operating System
+metadata_Resolution,Browser Meta Info - Resolution
+consentTime_First Click,Timing - First Click
+consentTime_Last Click,Timing - Last Click
+consentTime_Page Submit,Timing - Page Submit
+consentTime_Click Count,Timing - Click Count
+id,What is your Amazon Mechanical Turk ID (so we may compensate you for completing this survey)?
+idTime_First Click,Timing - First Click
+idTime_Last Click,Timing - Last Click
+idTime_Page Submit,Timing - Page Submit
+idTime_Click Count,Timing - Click Count
+p1agree,"A proposal to ban the exchange of cryptocurrencies such as Bitcoin, Ethereum, or Litecoin in the United States.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p1time_First Click,Timing - First Click
+p1time_Last Click,Timing - Last Click
+p1time_Page Submit,Timing - Page Submit
+p1time_Click Count,Timing - Click Count
+p2agree,"A proposal for mandatory minimum prison sentences for those convicted of  identity theft (""phishing"") .
+
+
+Do you agree or disagree with this proposal?"
+p2time_First Click,Timing - First Click
+p2time_Last Click,Timing - Last Click
+p2time_Page Submit,Timing - Page Submit
+p2time_Click Count,Timing - Click Count
+p3agree,"A proposal to use artificial intelligence software to detect online blackmailing on email platforms.
+
+ 
+
+
+
+Do you agree or disagree with this proposal?"
+p3time_First Click,Timing - First Click
+p3time_Last Click,Timing - Last Click
+p3time_Page Submit,Timing - Page Submit
+p3time_Click Count,Timing - Click Count
+p4agree,"A proposal to ban subliminal advertising from television, movies, and web videos.
+
+
+Do you agree or disagree with this proposal?"
+p4time_First Click,Timing - First Click
+p4time_Last Click,Timing - Last Click
+p4time_Page Submit,Timing - Page Submit
+p4time_Click Count,Timing - Click Count
+p5agree,A proposal to ban the storage of an individual's genetic information collected through bio-ident
+p5time_First Click,Timing - First Click
+p5time_Last Click,Timing - Last Click
+p5time_Page Submit,Timing - Page Submit
+p5time_Click Count,Timing - Click Count
+p6agree,"A proposal to require self-driving car manufacturers to program their products to make life-or-death decisions that minimize total harm or death, even if that means sacrificing the driver‚Äôs own safety.
+
+
+Do you agree or disagree with this proposal?"
+p6time_First Click,Timing - First Click
+p6time_Last Click,Timing - Last Click
+p6time_Page Submit,Timing - Page Submit
+p6time_Click Count,Timing - Click Count
+p7agree,"A proposal to require employers to provide half pay with full benefits for two years for current and future workers displaced by robots, androids, or artificial intelligence.
+
+
+Do you agree or disagree with this proposal?"
+p7time_First Click,Timing - First Click
+p7time_Last Click,Timing - Last Click
+p7time_Page Submit,Timing - Page Submit
+p7time_Click Count,Timing - Click Count
+p8agree,"A proposal to permit genetic editing of fetuses to prevent debilitating or fatal diseases.
+
+
+Do you agree or disagree with this proposal?"
+p8time_First Click,Timing - First Click
+p8time_Last Click,Timing - Last Click
+p8time_Page Submit,Timing - Page Submit
+p8time_Click Count,Timing - Click Count
+p9agree,"A proposal for an independent non-partisan commission to assess the reliability of print, online, and broadcast news sources.
+
+
+Do you agree or disagree with this proposal?"
+p9time_First Click,Timing - First Click
+p9time_Last Click,Timing - Last Click
+p9time_Page Submit,Timing - Page Submit
+p9time_Click Count,Timing - Click Count
+p10agree,"A proposal to remove the penny from circulation. 
+
+ 
+
+Do you agree or disagree with this proposal?"
+p10time_First Click,Timing - First Click
+p10time_Last Click,Timing - Last Click
+p10time_Page Submit,Timing - Page Submit
+p10time_Click Count,Timing - Click Count
+p11agree,"A proposal to exempt U.S. citizens from paying U.S. income tax for any foreign income they earn while living abroad.
+
+
+Do you agree or disagree with this proposal?"
+p11time_First Click,Timing - First Click
+p11time_Last Click,Timing - Last Click
+p11time_Page Submit,Timing - Page Submit
+p11time_Click Count,Timing - Click Count
+p12agree,"A proposal to tax companies in the countries where they are headquartered rather than in the countries where their revenues are generated. 
+
+ 
+
+Do you agree or disagree with this proposal?"
+p12time_First Click,Timing - First Click
+p12time_Last Click,Timing - Last Click
+p12time_Page Submit,Timing - Page Submit
+p12time_Click Count,Timing - Click Count
+p13agree,"A proposal to restrict the U.S. federal government from the use of tax revenue to save corporations from failing unless those companies have first declared bankruptcy.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p13time_First Click,Timing - First Click
+p13time_Last Click,Timing - Last Click
+p13time_Page Submit,Timing - Page Submit
+p13time_Click Count,Timing - Click Count
+p14agree,"A proposal to permit universities to offer salaries to college athletes.
+
+
+Do you agree or disagree with this proposal?"
+p14time_First Click,Timing - First Click
+p14time_Last Click,Timing - Last Click
+p14time_Page Submit,Timing - Page Submit
+p14time_Click Count,Timing - Click Count
+p15agree,"A proposal to impose $100 fines for drivers who drive below the speed limit in the passing lane on divided highways.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p15time_First Click,Timing - First Click
+p15time_Last Click,Timing - Last Click
+p15time_Page Submit,Timing - Page Submit
+p15time_Click Count,Timing - Click Count
+p16agree,"A proposal to eliminate Federal subsidies of agricultural products.
+
+
+Do you agree or disagree with this proposal?"
+p16time_First Click,Timing - First Click
+p16time_Last Click,Timing - Last Click
+p16time_Page Submit,Timing - Page Submit
+p16time_Click Count,Timing - Click Count
+p17agree,"A proposal to replace the current lottery based juror system with full-time licensed professional jurors.
+
+
+Do you agree or disagree with this proposal?"
+p17time_First Click,Timing - First Click
+p17time_Last Click,Timing - Last Click
+p17time_Page Submit,Timing - Page Submit
+p17time_Click Count,Timing - Click Count
+p18agree,"A proposal to develop artificial intelligence programs to serve as public defenders for those who cannot afford a human attorney.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p18time_First Click,Timing - First Click
+p18time_Last Click,Timing - Last Click
+p18time_Page Submit,Timing - Page Submit
+p18time_Click Count,Timing - Click Count
+p19agree,"A proposal to permit the development of genetically-engineered animals with organs that are suitable for animal-to-human organ donation.
+
+
+Do you agree or disagree with this proposal?"
+p19time_First Click,Timing - First Click
+p19time_Last Click,Timing - Last Click
+p19time_Page Submit,Timing - Page Submit
+p19time_Click Count,Timing - Click Count
+p20agree,"A proposal to authorize the Federal Aviation Administration (FAA) to develop safety requirements for commercial space travel. 
+
+
+
+Do you agree or disagree with this proposal?"
+p20time_First Click,Timing - First Click
+p20time_Last Click,Timing - Last Click
+p20time_Page Submit,Timing - Page Submit
+p20time_Click Count,Timing - Click Count
+p21agree,"A proposal to require social media websites in the U.S. to obtain informed consent from anyone who serves as a participant in an experiment on their platform, whether for basic scientific research or product improvement. 
+
+
+
+Do you agree or disagree with this proposal?"
+p21time_First Click,Timing - First Click
+p21time_Last Click,Timing - Last Click
+p21time_Page Submit,Timing - Page Submit
+p21time_Click Count,Timing - Click Count
+p22agree,"A proposal for government-funded job retraining programs to provide computer programming skills for workers displaced by automation.
+
+
+
+Do you agree or disagree with this proposal?"
+p22time_First Click,Timing - First Click
+p22time_Last Click,Timing - Last Click
+p22time_Page Submit,Timing - Page Submit
+p22time_Click Count,Timing - Click Count
+p23agree,"A proposal to require lab-grown meat to be explicitly labeled.
+
+
+
+Do you agree or disagree with this proposal?"
+p23time_First Click,Timing - First Click
+p23time_Last Click,Timing - Last Click
+p23time_Page Submit,Timing - Page Submit
+p23time_Click Count,Timing - Click Count
+p24agree,"A proposal to prohibit telecommunications companies from selling user location data to third parties. 
+
+ 
+
+Do you agree or disagree with this proposal?"
+p24time_First Click,Timing - First Click
+p24time_Last Click,Timing - Last Click
+p24time_Page Submit,Timing - Page Submit
+p24time_Click Count,Timing - Click Count
+p25agree,"A proposal to restrict smart home devices (e.g. Amazon Echo, Google Home) from storing data obtained from conversations while passively listening for a command.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p25time_First Click,Timing - First Click
+p25time_Last Click,Timing - Last Click
+p25time_Page Submit,Timing - Page Submit
+p25time_Click Count,Timing - Click Count
+p26agree,"A proposal to permit gene editing of invasive or disease-carrying species (e.g. mosquitoes) to limit their reproduction.
+
+
+Do you agree or disagree with this proposal?"
+p26time_First Click,Timing - First Click
+p26time_Last Click,Timing - Last Click
+p26time_Page Submit,Timing - Page Submit
+p26time_Click Count,Timing - Click Count
+p27agree,"A proposal to raise the minimum retirement age to reflect the increase in average life expectancy in the U.S.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p27time_First Click,Timing - First Click
+p27time_Last Click,Timing - Last Click
+p27time_Page Submit,Timing - Page Submit
+p27time_Click Count,Timing - Click Count
+p28agree,"A proposal to require every able-bodied U.S. citizen to spend one year in paid ""National Service"" following high school graduation or be exempted if employed in comparable occupations (e.g. teaching preschool in disadvantaged neighborhoods).
+
+
+Do you agree or disagree with this proposal?"
+p28time_First Click,Timing - First Click
+p28time_Last Click,Timing - Last Click
+p28time_Page Submit,Timing - Page Submit
+p28time_Click Count,Timing - Click Count
+p29agree,"A proposal to prohibit genetic research intended to bring back extinct animals (e.g. mammoths, dinosaurs, dodo birds, black rhinos).
+
+
+
+Do you agree or disagree with this proposal?"
+p29time_First Click,Timing - First Click
+p29time_Last Click,Timing - Last Click
+p29time_Page Submit,Timing - Page Submit
+p29time_Click Count,Timing - Click Count
+p31agree,"A proposal to make the Super Bowl a national holiday.
+
+
+Do you agree or disagree with this proposal?"
+p31time_First Click,Timing - First Click
+p31time_Last Click,Timing - Last Click
+p31time_Page Submit,Timing - Page Submit
+p31time_Click Count,Timing - Click Count
+p32agree,"A proposal to require laptop manufacturers to install privacy-protecting manual lens covers over the cameras.
+
+
+
+Do you agree or disagree with this proposal?"
+p32time_First Click,Timing - First Click
+p32time_Last Click,Timing - Last Click
+p32time_Page Submit,Timing - Page Submit
+p32time_Click Count,Timing - Click Count
+p33agree,"A proposal to provide federal energy subsidies for hydrogen-powered technology.
+
+
+Do you agree or disagree with this proposal?"
+p33time_First Click,Timing - First Click
+p33time_Last Click,Timing - Last Click
+p33time_Page Submit,Timing - Page Submit
+p33time_Click Count,Timing - Click Count
+p34agree,"A proposal to require air deodorizing systems in elevators with a capacity greater than five people. 
+
+
+Do you agree or disagree with this proposal?"
+p34time_First Click,Timing - First Click
+p34time_Last Click,Timing - Last Click
+p34time_Page Submit,Timing - Page Submit
+p34time_Click Count,Timing - Click Count
+p35agree,"A proposal to legalize physician assisted suicide for patients with painful terminal diseases.
+
+
+Do you agree or disagree with this proposal?"
+p35time_First Click,Timing - First Click
+p35time_Last Click,Timing - Last Click
+p35time_Page Submit,Timing - Page Submit
+p35time_Click Count,Timing - Click Count
+p36agree,"A proposal to commit NASA to send a human to and back from Mars by 2040.
+
+
+Do you agree or disagree with this proposal?"
+p36time_First Click,Timing - First Click
+p36time_Last Click,Timing - Last Click
+p36time_Page Submit,Timing - Page Submit
+p36time_Click Count,Timing - Click Count
+p37agree,"A proposal to fund research for using virtual reality in public education.
+
+
+Do you agree or disagree with this proposal?"
+p37time_First Click,Timing - First Click
+p37time_Last Click,Timing - Last Click
+p37time_Page Submit,Timing - Page Submit
+p37time_Click Count,Timing - Click Count
+p38agree,"‚ÄãA proposal to permit athletes to use medical procedures to extend the length of their careers.
+
+
+Do you agree or disagree with this proposal?"
+p38time_First Click,Timing - First Click
+p38time_Last Click,Timing - Last Click
+p38time_Page Submit,Timing - Page Submit
+p38time_Click Count,Timing - Click Count
+p39agree,"A proposal to allow professional athletic organizations to use genetic information about athletes during contract negotiations.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p39time_First Click,Timing - First Click
+p39time_Last Click,Timing - Last Click
+p39time_Page Submit,Timing - Page Submit
+p39time_Click Count,Timing - Click Count
+p40agree,"A proposal to prohibit news organizations from displaying images of the shooter in mass shootings.
+
+
+Do you agree or disagree with this proposal?"
+p40time_First Click,Timing - First Click
+p40time_Last Click,Timing - Last Click
+p40time_Page Submit,Timing - Page Submit
+p40time_Click Count,Timing - Click Count
+p41agree,"A proposal to prohibit genetic testing companies (e.g. 23andMe) from claiming ownership over their clients‚Äô genetic data.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p41time_First Click,Timing - First Click
+p41time_Last Click,Timing - Last Click
+p41time_Page Submit,Timing - Page Submit
+p41time_Click Count,Timing - Click Count
+p42agree,"A proposal to increase federal funding for research into use of hyperloop and maglev trains for public transportation.
+
+
+Do you agree or disagree with this proposal?"
+p42time_First Click,Timing - First Click
+p42time_Last Click,Timing - Last Click
+p42time_Page Submit,Timing - Page Submit
+p42time_Click Count,Timing - Click Count
+p43agree,"A proposal to federally subsidize bird-tracking programs.
+
+ 
+
+Do you agree or disagree with this proposal?"
+p43time_First Click,Timing - First Click
+p43time_Last Click,Timing - Last Click
+p43time_Page Submit,Timing - Page Submit
+p43time_Click Count,Timing - Click Count
+p44agree,"A proposal to implement default, but changeable, organ donor status for all citizens.
+
+
+Do you agree or disagree with this proposal?"
+p44time_First Click,Timing - First Click
+p44time_Last Click,Timing - Last Click
+p44time_Page Submit,Timing - Page Submit
+p44time_Click Count,Timing - Click Count
+p45agree,"A proposal to reconsider state speed limits every 50 years.
+
+
+Do you agree or disagree with this proposal?"
+p45time_First Click,Timing - First Click
+p45time_Last Click,Timing - Last Click
+p45time_Page Submit,Timing - Page Submit
+p45time_Click Count,Timing - Click Count
+gotcha,"A proposal to make all road and highway signs neon in color to be as visible as possible to drivers. Please select ""Somewhat agree"" in the responses below.
+
+
+Do you agree or disagree with this proposal?"
+gotchaTime_First Click,Timing - First Click
+gotchaTime_Last Click,Timing - Last Click
+gotchaTime_Page Submit,Timing - Page Submit
+gotchaTime_Click Count,Timing - Click Count
+c1agree,"Video games have a positive influence on children‚Äôs lives
+
+ 
+
+Do you agree or disagree with this statement?"
+c1time_First Click,Timing - First Click
+c1time_Last Click,Timing - Last Click
+c1time_Page Submit,Timing - Page Submit
+c1time_Click Count,Timing - Click Count
+c2agree,"On-demand movies and television shows have a positive influence on children‚Äôs lives.
+
+
+
+Do you agree or disagree with this statement?"
+c2time_First Click,Timing - First Click
+c2time_Last Click,Timing - Last Click
+c2time_Page Submit,Timing - Page Submit
+c2time_Click Count,Timing - Click Count
+c3agree,"The greatest books are universal in their appeal.
+
+
+
+Do you agree or disagree with this statement?"
+c3time_First Click,Timing - First Click
+c3time_Last Click,Timing - Last Click
+c3time_Page Submit,Timing - Page Submit
+c3time_Click Count,Timing - Click Count
+c4agree,"Watching one‚Äôs children grow up is life‚Äôs greatest joy.
+
+
+
+Do you agree or disagree with this statement?"
+c4time_First Click,Timing - First Click
+c4time_Last Click,Timing - Last Click
+c4time_Page Submit,Timing - Page Submit
+c4time_Click Count,Timing - Click Count
+c5agree,"High schools and colleges make students spend too much time reading ‚Äúclassics‚Äù that have little relevance in today‚Äôs world.
+
+ 
+
+Do you agree or disagree with this statement?"
+c5time_First Click,Timing - First Click
+c5time_Last Click,Timing - Last Click
+c5time_Page Submit,Timing - Page Submit
+c5time_Click Count,Timing - Click Count
+c6agree,"Artistic excellence can be found in popular and folk culture just as much as in the fine arts
+
+ 
+
+Do you agree or disagree with this statement?"
+c6time_First Click,Timing - First Click
+c6time_Last Click,Timing - Last Click
+c6time_Page Submit,Timing - Page Submit
+c6time_Click Count,Timing - Click Count
+c7agree,"In regard to morality, it takes only one rotten apple to spoil the barrel.
+
+ 
+
+Do you agree or disagree with this statement?"
+c7time_First Click,Timing - First Click
+c7time_Last Click,Timing - Last Click
+c7time_Page Submit,Timing - Page Submit
+c7time_Click Count,Timing - Click Count
+c8agree,"The best part of traveling to foreign countries is eating local foods.
+
+
+
+Do you agree or disagree with this statement?"
+c8time_First Click,Timing - First Click
+c8time_Last Click,Timing - Last Click
+c8time_Page Submit,Timing - Page Submit
+c8time_Click Count,Timing - Click Count
+c9agree,"Classical music is pretentious.
+
+
+
+Do you agree or disagree with this statement?"
+c9time_First Click,Timing - First Click
+c9time_Last Click,Timing - Last Click
+c9time_Page Submit,Timing - Page Submit
+c9time_Click Count,Timing - Click Count
+c10agree,"Modern art is pretentious.
+
+ 
+
+Do you agree or disagree with this statement?"
+c10time_First Click,Timing - First Click
+c10time_Last Click,Timing - Last Click
+c10time_Page Submit,Timing - Page Submit
+c10time_Click Count,Timing - Click Count
+c11agree,"Science and technology are largely responsible for human progress.
+
+
+
+Do you agree or disagree with this statement?"
+c11time_First Click,Timing - First Click
+c11time_Last Click,Timing - Last Click
+c11time_Page Submit,Timing - Page Submit
+c11time_Click Count,Timing - Click Count
+c12agree,"It is important for one's social life to stay up to date with the latest sports games, popular television shows, and movies.
+
+ 
+
+Do you agree or disagree with this statement?"
+c12time_First Click,Timing - First Click
+c12time_Last Click,Timing - Last Click
+c12time_Page Submit,Timing - Page Submit
+c12time_Click Count,Timing - Click Count
+c13agree,"Science fiction is more interesting than science fact.
+
+ 
+
+Do you agree or disagree with this statement?"
+c13time_First Click,Timing - First Click
+c13time_Last Click,Timing - Last Click
+c13time_Page Submit,Timing - Page Submit
+c13time_Click Count,Timing - Click Count
+c14agree,"Social media sites have a positive influence on people's daily lives.
+
+
+
+Do you agree or disagree with this statement?"
+c14time_First Click,Timing - First Click
+c14time_Last Click,Timing - Last Click
+c14time_Page Submit,Timing - Page Submit
+c14time_Click Count,Timing - Click Count
+c15agree,"There is no such thing as objective truth. What is true depends on the personal values of each person.
+
+
+
+Do you agree or disagree with this statement?"
+c15time_First Click,Timing - First Click
+c15time_Last Click,Timing - Last Click
+c15time_Page Submit,Timing - Page Submit
+c15time_Click Count,Timing - Click Count
+c16agree,"It is unethical but not morally wrong to treat some people differently than others.
+
+
+
+Do you agree or disagree with this statement?"
+c16time_First Click,Timing - First Click
+c16time_Last Click,Timing - Last Click
+c16time_Page Submit,Timing - Page Submit
+c16time_Click Count,Timing - Click Count
+c17agree,"Social justice is more important than economic equality.
+
+ 
+
+Do you agree or disagree with this statement?"
+c17time_First Click,Timing - First Click
+c17time_Last Click,Timing - Last Click
+c17time_Page Submit,Timing - Page Submit
+c17time_Click Count,Timing - Click Count
+c18agree,"It is unwise but not unethical to betray one's group.
+
+ 
+
+Do you agree or disagree with this statement?"
+c18time_First Click,Timing - First Click
+c18time_Last Click,Timing - Last Click
+c18time_Page Submit,Timing - Page Submit
+c18time_Click Count,Timing - Click Count
+c19agree,"It is likely that a tsunami will hit the west coast in the next 20 years.
+
+
+
+Do you agree or disagree with this statement?"
+c19time_First Click,Timing - First Click
+c19time_Last Click,Timing - Last Click
+c19time_Page Submit,Timing - Page Submit
+c19time_Click Count,Timing - Click Count
+c20agree,"It is likely that an asteroid will wipe out human civilization in the next 1,000 years.
+
+
+
+Do you agree or disagree with this statement?"
+c20time_First Click,Timing - First Click
+c20time_Last Click,Timing - Last Click
+c20time_Page Submit,Timing - Page Submit
+c20time_Click Count,Timing - Click Count
+c21agree,"It is likely that someone you know will win a state or national lottery.
+
+
+
+Do you agree or disagree with this statement?"
+c21time_First Click,Timing - First Click
+c21time_Last Click,Timing - Last Click
+c21time_Page Submit,Timing - Page Submit
+c21time_Click Count,Timing - Click Count
+c22agree,"It is likely that a devastating earthquake will occur in the United States in the next 15 years.
+
+
+
+Do you agree or disagree with this statement?"
+c22time_First Click,Timing - First Click
+c22time_Last Click,Timing - Last Click
+c22time_Page Submit,Timing - Page Submit
+c22time_Click Count,Timing - Click Count
+c23agree,"It is likely that someone you know will find a four-leaf clover this year.
+
+ 
+
+Do you agree or disagree with this statement?"
+c23time_First Click,Timing - First Click
+c23time_Last Click,Timing - Last Click
+c23time_Page Submit,Timing - Page Submit
+c23time_Click Count,Timing - Click Count
+c24agree,"It is likely that many automobiles will continue to run on gasoline in the U.S. well after gasoline engines have disappeared in Western Europe.
+
+ 
+
+Do you agree or disagree with this statement?"
+c24time_First Click,Timing - First Click
+c24time_Last Click,Timing - Last Click
+c24time_Page Submit,Timing - Page Submit
+c24time_Click Count,Timing - Click Count
+c25agree,"During preschool years, it is more important for children to learn obedience than creativity, but after age six, it is the other way around.
+
+
+
+Do you agree or disagree with this statement?"
+c25time_First Click,Timing - First Click
+c25time_Last Click,Timing - Last Click
+c25time_Page Submit,Timing - Page Submit
+c25time_Click Count,Timing - Click Count
+c26agree,"It is a myth that strict parents give children the confidence to succeed in life.
+
+ 
+
+Do you agree or disagree with this statement?"
+c26time_First Click,Timing - First Click
+c26time_Last Click,Timing - Last Click
+c26time_Page Submit,Timing - Page Submit
+c26time_Click Count,Timing - Click Count
+c27agree,"The character of the students is more important than the quality of the teachers in choosing the best schools for one's children.
+
+
+
+Do you agree or disagree with this statement?"
+c27time_First Click,Timing - First Click
+c27time_Last Click,Timing - Last Click
+c27time_Page Submit,Timing - Page Submit
+c27time_Click Count,Timing - Click Count
+c28agree,"Scientific research that causes pain and injury to animals should  be prohibited even if it is needed to cure human diseases.
+
+
+
+Do you agree or disagree with this statement?"
+c28time_First Click,Timing - First Click
+c28time_Last Click,Timing - Last Click
+c28time_Page Submit,Timing - Page Submit
+c28time_Click Count,Timing - Click Count
+c29agree,"Parents should encourage their children to learn more practically relevant skills such as personal finance, home repair, and cooking.
+
+
+
+Do you agree or disagree with this statement?"
+c29time_First Click,Timing - First Click
+c29time_Last Click,Timing - Last Click
+c29time_Page Submit,Timing - Page Submit
+c29time_Click Count,Timing - Click Count
+c30agree,"When there is no other option, it is morally okay to sacrifice the life of an aging mentally impaired adult to save the lives of a dozen healthy children.
+
+
+
+Do you agree or disagree with this statement?"
+c30time_First Click,Timing - First Click
+c30time_Last Click,Timing - Last Click
+c30time_Page Submit,Timing - Page Submit
+c30time_Click Count,Timing - Click Count
+c31agree,"One should not feed one's family genetically modified foods.
+
+
+
+Do you agree or disagree with this statement?"
+c31time_First Click,Timing - First Click
+c31time_Last Click,Timing - Last Click
+c31time_Page Submit,Timing - Page Submit
+c31time_Click Count,Timing - Click Count
+c32agree,"The world‚Äôs future looks grim, so we have to focus on looking after ourselves.
+
+ 
+
+Do you agree or disagree with this statement?"
+c32time_First Click,Timing - First Click
+c32time_Last Click,Timing - Last Click
+c32time_Page Submit,Timing - Page Submit
+c32time_Click Count,Timing - Click Count
+c33agree,"Public schools need to place greater emphasis on children's physical fitness and health, even it takes away time from academics.
+
+ 
+
+Do you agree or disagree with this statement?"
+c33time_First Click,Timing - First Click
+c33time_Last Click,Timing - Last Click
+c33time_Page Submit,Timing - Page Submit
+c33time_Click Count,Timing - Click Count
+c34agree,"Nothing is inevitable.
+
+ 
+
+Do you agree or disagree with this statement?"
+c34time_First Click,Timing - First Click
+c34time_Last Click,Timing - Last Click
+c34time_Page Submit,Timing - Page Submit
+c34time_Click Count,Timing - Click Count
+c35agree,"Life will be better in 100 years compared to today.
+
+ 
+
+
+Do you agree or disagree with this statement?"
+c35time_First Click,Timing - First Click
+c35time_Last Click,Timing - Last Click
+c35time_Page Submit,Timing - Page Submit
+c35time_Click Count,Timing - Click Count
+c36agree,"In getting ahead, it is not what you know, it's who you know.
+
+ 
+
+Do you agree or disagree with this statement?"
+c36time_First Click,Timing - First Click
+c36time_Last Click,Timing - Last Click
+c36time_Page Submit,Timing - Page Submit
+c36time_Click Count,Timing - Click Count
+c37agree,"It is superficial to have a high degree of interest in fashion.
+
+ 
+
+Do you agree or disagree with this statement?"
+c37time_First Click,Timing - First Click
+c37time_Last Click,Timing - Last Click
+c37time_Page Submit,Timing - Page Submit
+c37time_Click Count,Timing - Click Count
+c38agree,"People don‚Äôt read enough anymore.
+
+ 
+
+Do you agree or disagree with this statement?"
+c38time_First Click,Timing - First Click
+c38time_Last Click,Timing - Last Click
+c38time_Page Submit,Timing - Page Submit
+c38time_Click Count,Timing - Click Count
+c39agree,"Artistic independent films contribute more to American culture than summer blockbusters.
+
+ 
+
+Do you agree or disagree with this statement?"
+c39time_First Click,Timing - First Click
+c39time_Last Click,Timing - Last Click
+c39time_Page Submit,Timing - Page Submit
+c39time_Click Count,Timing - Click Count
+c40agree,"Chess should be included in the Summer Olympics.
+
+ 
+
+Do you agree or disagree with this statement?"
+c40time_First Click,Timing - First Click
+c40time_Last Click,Timing - Last Click
+c40time_Page Submit,Timing - Page Submit
+c40time_Click Count,Timing - Click Count
+c41agree,"It is unfair to pets for owners to leave them home alone all day while going to work.
+
+ 
+
+Do you agree or disagree with this statement?"
+c41time_First Click,Timing - First Click
+c41time_Last Click,Timing - Last Click
+c41time_Page Submit,Timing - Page Submit
+c41time_Click Count,Timing - Click Count
+c42agree,"It‚Äôs important to be able to hold a five-minute conversation with anyone on the street.
+
+
+
+Do you agree or disagree with this statement?"
+c42time_First Click,Timing - First Click
+c42time_Last Click,Timing - Last Click
+c42time_Page Submit,Timing - Page Submit
+c42time_Click Count,Timing - Click Count
+c43agree,"Companies should be able to hire for the same position at different salaries based on a good first impression.
+
+
+
+Do you agree or disagree with this statement?"
+c43time_First Click,Timing - First Click
+c43time_Last Click,Timing - Last Click
+c43time_Page Submit,Timing - Page Submit
+c43time_Click Count,Timing - Click Count
+c44agree,"Society only functions as well as its lowest common denominator.
+
+
+
+Do you agree or disagree with this statement?"
+c44time_First Click,Timing - First Click
+c44time_Last Click,Timing - Last Click
+c44time_Page Submit,Timing - Page Submit
+c44time_Click Count,Timing - Click Count
+c45agree,"‚ÄúHonest work‚Äù is more desirable than ‚Äúlucrative work.‚Äù
+
+
+
+Do you agree or disagree with this statement?"
+c45time_First Click,Timing - First Click
+c45time_Last Click,Timing - Last Click
+c45time_Page Submit,Timing - Page Submit
+c45time_Click Count,Timing - Click Count
+c46agree,"Implanting technology is acceptable in the bones and organs but not in the brain.
+
+
+
+Do you agree or disagree with this statement?"
+c46time_First Click,Timing - First Click
+c46time_Last Click,Timing - Last Click
+c46time_Page Submit,Timing - Page Submit
+c46time_Click Count,Timing - Click Count
+ageID,What is your current age?
+raceID,Which of these best represents your racial and/or ethnic identity?
+genderID,Which of these best represents your gender identity?
+polID,Which political party are you more likely to support?
+polDemoTime_First Click,Timing - First Click
+polDemoTime_Last Click,Timing - Last Click
+polDemoTime_Page Submit,Timing - Page Submit
+polDemoTime_Click Count,Timing - Click Count
